@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/latidos-al-alba/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Latidos al alba](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/latidos-al-alba/) |
+| **Get License** | [Get a Licensing Quote for Latidos al alba](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/latidos-al-alba/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `19b545cda03df6215e835b6398792bac93e0cfec64e198c7bf1af6377359f479` |
 | **Timestamp** | June 23, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
