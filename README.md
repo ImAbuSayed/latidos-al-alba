@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Latidos al alba, siento tu calor
+> Bailando en la noche, perdemos el control
+> Tus labios me llaman, no hay nada mejor
+> Este amor prohibido se vuelve pasión
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
